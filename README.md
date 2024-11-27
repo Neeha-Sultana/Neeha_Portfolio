@@ -111,7 +111,7 @@ The about section contains a quick about blurb that can be edited by changing th
 
 ### Experience Section
 
-The experience section creates a vertical timeline with all your relevant experience. The code for the timeline creation can be found within `js/scripts.js` and is an adaptation of [RyanFitzgerald/vertical-timeline](https://github.com/RyanFitzgerald/vertical-timeline).
+The experience section creates a vertical timeline with all your relevant experience. The code for the timeline creation can be found within `js/scripts.js`.
 
 The default format is as follows:
 
@@ -322,7 +322,3 @@ The optional section blocks have styling for h3 (the block title), h4, p, and ul
 * Fixed menu toggle on mobile devices
 * Fixed z-index / scrolling issue with mobile menu
 * Mobile menu now closes once a nav element is hit
-
-## License
-
-Completely free (MIT)! See [LICENSE.md](LICENSE.md) for more.
